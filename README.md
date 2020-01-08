@@ -1,6 +1,6 @@
-# User Stories
+# User Stories :information_desk_person: :computer:
 
-## What is it?
+## What is it? :speech_balloon:
 
 - A short, simple description of a product feature.
 - Told from the perspective of the person who wants that feature.
@@ -8,11 +8,11 @@
 - Used to define the product backlog in an Agile Development workflow.
 - The product backlog is a collection of user stories that drives feature development for a product or service.
 
-## How do you write them?
+## How do you write them? :pencil2:
 Three parts:
-1 - The persona
-2 - The feature
-3 - The need satisfied by the feature
+1 - The persona :ok_woman:
+2 - The feature :hammer:
+3 - The need satisfied by the feature :exclamation:
 
 Template:
 
@@ -21,7 +21,7 @@ Template:
 Example Story: **Airbnb**
 - "**As an user**, I want **to search for a destination** so I can **book accommodation in a foreign city**".
 
-## What is an Epic?
+## What is an Epic? :speech_balloon:
 - An epic is a very big user story.
 - An epic will likely contain many other smaller user stories.
 

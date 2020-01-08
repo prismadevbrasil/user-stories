@@ -16,14 +16,14 @@ Three parts:
 
 Template:
 
-As a __<USER ROLE>__ I want <WHAT?/FEATURE> so that __<WHY?/SATISFY A NEED>__
+"As a __<USER_ROLE>__ I want __<WHAT_OR_FEATURE>__ so that __<WHY_OR_SATISFY A NEED>__"
 
-Example Story: Airbnb
+Example Story: **Airbnb**
 - "**As an user**, I want **to search for a destination** so I can **book accommodation in a foreign city**".
 
 ## What is an Epic?
-- An epic is a very big user story
-- An epic will likely contain many other smaller user stories
+- An epic is a very big user story.
+- An epic will likely contain many other smaller user stories.
 
 Example Epic:
 - "I want to find a holiday destinations and travel abroad."
@@ -63,3 +63,4 @@ Persona Example:
 
 # References
 - [How to Write User Stories](https://www.youtube.com/watch?v=eYZ8vBXL1kk) by Robert Smith
+- [How To Write User Stories, Epics, & Personas - Dev Life](https://www.youtube.com/watch?v=Fw98L-kcRpc&list=PLmbaYWhnH6XtT-W5UdYUBc_ngqlUFO294&index=4&t=0s) by Anissa Deanna

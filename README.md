@@ -10,9 +10,9 @@
 
 ## How do you write them? :pencil2:
 Three parts:
-1 - The persona :ok_woman:
-2 - The feature :hammer:
-3 - The need satisfied by the feature :exclamation:
+- The persona :ok_woman:
+- The feature :hammer:
+- The need satisfied by the feature :exclamation:
 
 Template:
 

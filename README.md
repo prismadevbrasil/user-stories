@@ -61,6 +61,41 @@ Persona Example:
 		- She loves pit bulls but knows they have a bad rep
 
 
+# User Journey
+
+## What is it?
+- Top level view of how an user interacts with a product or service.
+- Shows the different stages and scenarios of the interaction.
+- It not too specific in terms of funcionality or interaction patterns.
+
+#### Uber Example: User Journey
+1. User takes phone out pocket
+2. Enter their destination
+3. Choose car + fare
+4. Confirmation
+5. Request a driver
+6. Driver confirmation
+7. Wait for the driver
+8. ...
+
+# User Flow
+
+## What is it?
+- Shows a specific path of flow a user follows within a product.
+- Shows the details: screen, pages, functionality & interactions.
+
+#### Uber Example: User Flow
+1. Splash / loading screen
+2. Postcode / destination search
+3. Search results
+4. Select a destination
+5. Select a car + fare
+6. Press confirmation button
+7. Waits for a driver
+8. Shows the driver selected
+9. Shows the distance from you to the driver
+10. ...
+
 # References
 - [How to Write User Stories](https://www.youtube.com/watch?v=eYZ8vBXL1kk) by Robert Smith
 - [How To Write User Stories, Epics, & Personas - Dev Life](https://www.youtube.com/watch?v=Fw98L-kcRpc&list=PLmbaYWhnH6XtT-W5UdYUBc_ngqlUFO294&index=4&t=0s) by Anissa Deanna

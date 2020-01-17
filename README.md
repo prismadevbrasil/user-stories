@@ -99,3 +99,4 @@ Persona Example:
 # References
 - [How to Write User Stories](https://www.youtube.com/watch?v=eYZ8vBXL1kk) by Robert Smith
 - [How To Write User Stories, Epics, & Personas - Dev Life](https://www.youtube.com/watch?v=Fw98L-kcRpc&list=PLmbaYWhnH6XtT-W5UdYUBc_ngqlUFO294&index=4&t=0s) by Anissa Deanna
+- [The Difference Between User Journeys and User Flows | UX Tutorial](https://www.youtube.com/watch?v=-MqBBvw6wBY&list=PLmbaYWhnH6XtnuZKt-CNx4psgQyTqwMq8&index=2&t=0s) by Robert Smith

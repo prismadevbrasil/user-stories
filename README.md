@@ -96,7 +96,23 @@ Persona Example:
 9. Shows the distance from you to the driver
 10. ...
 
+# The UX User Research Process
+1. **Background Research:**
+   - Research that is often conducted using surveys, questionnaires and interview techniques.
+   - Normally doneto gain insight into the potential or existing users of a product or a service.
+   - Allows you to build a picture of your users and understand their needs.
+2. **Usability Testing:**
+   - Research to test the user experience of a product or service.
+   - Insight is gained by testing wireframes, prototypes or a live URL.
+   - Can be used to test the proposed or existing design of a product or service.
+3. **Research to understand ROI:**
+   - Research to learn about the effectiveness of your UX efforts.
+   - Also used to see how a product is performing in terms a conversion rates, sales and other metrics.
+   - Methods include A/B comparisons, analytic measurement, etc.
+
 # References
 - [How to Write User Stories](https://www.youtube.com/watch?v=eYZ8vBXL1kk) by Robert Smith
 - [How To Write User Stories, Epics, & Personas - Dev Life](https://www.youtube.com/watch?v=Fw98L-kcRpc&list=PLmbaYWhnH6XtT-W5UdYUBc_ngqlUFO294&index=4&t=0s) by Anissa Deanna
 - [The Difference Between User Journeys and User Flows | UX Tutorial](https://www.youtube.com/watch?v=-MqBBvw6wBY&list=PLmbaYWhnH6XtnuZKt-CNx4psgQyTqwMq8&index=2&t=0s) by Robert Smith
+- [The UX User Research Process
+](https://www.youtube.com/watch?v=A2DdLAxvBiU) by Robert Smith

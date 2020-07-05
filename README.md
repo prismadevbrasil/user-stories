@@ -1,4 +1,4 @@
-# User Stories :information_desk_person: :computer:
+# UX to Developers :information_desk_person: :computer:
 
 ## What is it? :speech_balloon:
 
